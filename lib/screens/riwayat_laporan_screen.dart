@@ -19,6 +19,7 @@ class _RiwayatLaporanScreenState extends State<RiwayatLaporanScreen> {
 @override
 void initState() {
   super.initState();
+  _load();
 }
 
 void _load() {
